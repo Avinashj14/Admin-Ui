@@ -1,0 +1,17 @@
+.SearchContainer {
+    /* border: 2px solid green; */
+    margin: 12px 163px;
+    display: flex;
+    height: 50px;
+    width: 1560px;
+}
+
+input{
+    width: 100%;
+    /* border: 2px solid #e3d8d8; */
+    border-radius: 5px;
+    font-size: 30px;
+    font-style: oblique;
+    padding: 4px 14px;
+    opacity: 0.5;
+}
